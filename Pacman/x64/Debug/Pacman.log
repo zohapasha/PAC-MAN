@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Iqra Pasha\Documents\Pacman\Pacman\Source.cpp(94,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Iqra Pasha\Documents\Pacman\Pacman\Source.cpp(99,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Iqra Pasha\Documents\Pacman\Pacman\Source.cpp(677,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pacman.vcxproj -> C:\Users\Iqra Pasha\Documents\Pacman\x64\Debug\Pacman.exe
